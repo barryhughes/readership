@@ -1,0 +1,202 @@
+.wrap.readership div.icon32 {
+	background-image: url("icon32.png");
+}
+
+.wrap.readership .content {
+	clear: both;
+	width: 95%;
+}
+
+.wrap.readership .layout {
+	width: 100%;
+}
+
+.wrap.readership .whole {
+	display: table;
+	float: left;
+	width: 100%;
+}
+
+.wrap.readership .twothirds {
+	display: table;
+	float: left;
+	margin-right: 1em;
+	width: 67%;
+}
+
+.wrap.readership .third {
+	display: table;
+	float: right;
+	width: 30%;
+}
+
+.wrap.readership .postbox-container {
+	float: none;
+}
+
+.wrap.readership .postbox-container .inside {
+	display: table;
+	width: 96%;
+}
+
+.wrap.readership table.form tr td:first-child {
+	padding-right: 0.65em;
+	text-align: right;
+}
+
+.wrap.readership table.form tr.penultimaterow td {
+	padding-bottom: 0.8em;
+}
+
+.wrap.readership table.form tr.finalrow td {
+	border-top: 1px dotted #dedede;
+	padding-top: 0.8em;
+}
+
+.wrap.readership table.horizontalform tr td {
+	vertical-align: top;
+}
+
+.wrap.readership table.horizontalform tr:first-child td {
+	vertical-align: bottom;
+}
+
+.wrap.readership table.horizontalform td {
+	padding-right: 1em;
+}
+
+.wrap.readership table ul {
+	margin: 0;
+}
+
+.wrap.readership input.med {
+	width: 22em;
+}
+
+.wrap.readership input.short {
+	width: 6em;
+}
+
+.wrap.readership a.altaction {
+	color: #505050;
+	padding: 0.45em;
+	text-decoration: none;
+}
+
+.wrap.readership a.altaction:hover {
+	color: #BC0B0B;
+}
+
+.wrap.readership div.scrollablelist {
+	background: #fff;
+	border: 1px solid #aaa;
+	border-bottom: 1px solid #999;
+	border-right: 1px solid #999;
+	height: 10em;
+	overflow-y: scroll;
+}
+
+.wrap.readership div.scrollablelist table {
+	border-spacing:0;
+	border-collapse:collapse;
+	width: 100%;
+}
+
+.wrap.readership div.scrollablelist table td {
+	padding: 0.32em;
+}
+
+.wrap.readership div.scrollablelist table tr td {
+	border-top: 1px solid #f5f5f7;
+}
+
+.wrap.readership div.scrollablelist table tr.stripe td {
+	background: #ededed;
+	border-top: 1px solid #e3e3e6;
+}
+
+.wrap.readership div.updatemsg {
+	background: #FCFCFC;
+	border: 1.5px dashed #C0C0C0;
+	font-weight: bold;
+	margin-top: 0.34em;
+	padding: 0.6em 1.1em;
+	width: auto;
+}
+
+.wrap.readership span.subscription-outline span.id {
+	color: #aaa;
+	padding-left: 0.4em;
+}
+
+.wrap.readership span.subscription-outline span.remaining {
+	color: #aaa;
+	padding-left: 0.4em
+}
+
+.wrap.readership span.subscription-outline span.remaining.red {
+	color: #f90000;
+}
+
+.wrap.readership span.subscription-outline span.remaining.amber {
+	color: #f98907;
+}
+
+.wrap.readership span.subscription-outline span.remaining.green {
+	color: #00ca10
+}
+
+.wrap.readership span.subscription-outline span.remaining.blue {
+	color: #0010ca
+}
+
+div.ui-datepicker {
+	background: #fff;
+	border: 1px solid #aaa;
+	display: table;
+	padding: 0.5em 0.3em;
+}
+
+div.ui-datepicker-header {
+	width: 100%;
+}
+
+div.ui-datepicker-header a.ui-datepicker-prev {
+	float: left;
+	padding-top: 0.25em;
+}
+
+div.ui-datepicker-header a.ui-datepicker-next {
+	float: right;
+	padding-top: 0.25em;
+}
+
+div.ui-datepicker-header div.ui-datepicker-title {
+	font-size: 1.2em;
+	padding: 0.2em 3em;
+	text-align: center;
+}
+
+table.ui-datepicker-calendar {
+	width: 95%;
+	margin: 5%;
+}
+
+table.ui-datepicker-calendar td {
+	text-align: right;
+}
+
+table.ui-datepicker-calendar td a {
+	text-decoration: none;
+}
+
+.wrap.readership span.pagination-links span.currentpage {
+	font-weight: bold;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+.wrap.readership .savebox {
+	margin: 1em 3em;
+	text-align: center;
+}
